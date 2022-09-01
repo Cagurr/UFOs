@@ -1,5 +1,7 @@
 # UFOs
 
+## Deployed to https://cagurr.github.io/UFOs/
+
 ## Overview of UFO Analysis
 
 Dana, a data journalist, is given the opportunity to write about her hometown, but it is much more than that.  Minnville, Oregon is famous for its UFO sightings and even has an annual gathering of UFO enthusiasts.  In lieu of writing a traditional article, Data decided to engage me to create a website displaying archived UFO sighting data.  Dana has a javascript file with sighting information (e.g., country, city, state, type of signting, etc.) that we used for our project.  The website that Dana and I created is dynamic and uses javascript to display and filter the final results.
